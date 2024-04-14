@@ -1,1 +1,1 @@
-ipconfig | find "IPv4" | msg *
+ipconfig | find "IPv4"
